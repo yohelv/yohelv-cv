@@ -6,7 +6,6 @@
 
 <div align="center">
 <p>
-
 Design based on <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
 
 </p>
