@@ -1,6 +1,6 @@
 <h2>
 <div align="center">
-    <em>CV</em> for web and pdf
+    CV for <em>Yohel Velazuqez</em>
 </div>
 </h2>
 
@@ -13,5 +13,5 @@ Design based on <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</
 
 </p>
 
-# yohelv-cv-github.io
+# yohelv.github.io/yohelv-cv
 </div>
